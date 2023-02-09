@@ -1,0 +1,29 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card{
+    width: 300px;
+    height: 500px;
+    overflow: hidden;
+    border: 2px solid #606c38;
+    border-radius: 10px;
+}
+
+img{
+    width: 100%;
+}
+
+.card-body{
+    padding: 10px;
+    color: #283618;
+}
+
+.card-title{
+    font-size: 20px;
+    margin-bottom: 10px;
+}

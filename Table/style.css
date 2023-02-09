@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+table, th, td {
+    border: 1px solid #333;
+    border-collapse: collapse;
+  }
+
+th, td {
+    padding: 5px;
+}
+
+th{
+    background-color: #4361ee;
+    color: #fff;
+}
